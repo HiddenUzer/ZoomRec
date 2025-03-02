@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
 ZoomRec 1.2.0 is an automation tool that allows users to automatically join Zoom meetings at scheduled times, input credentials, and record the session for a set duration. The tool provides a user-friendly GUI interface to configure meeting details, schedule times, and find button coordinates for seamless automation.
 
-Features
+**Features**
 
 1.Automated Zoom Joining: Opens Zoom, enters meeting details, and joins automatically.
 
@@ -16,7 +16,7 @@ Features
 
 Configurable Settings: Stores meeting details, schedule, and button positions in config.json.
 
-Installation
+**Installation**
 
 1. Download the Executable
 2. Ensure ZoomRec.exe and config.json are in the same folder.
@@ -25,7 +25,7 @@ Installation
 5.Set the Zoom Path (path to Zoom.exe). Example - "C:\\Users\\12345\\AppData\\Roaming\\Zoom\\bin_00\\Zoom.exe"
 6. Locate the Join Button using the auto locator. 
 
-Troubleshooting
+**Troubleshooting**
 
 "config.json not found" Error: Ensure config.json is in the same folder as the .exe.
 
@@ -35,9 +35,8 @@ Incorrect Button Clicks: Use "Locate Join Button" to update the coordinates.
 
 Meeting Not Starting on Schedule: Check if the current time matches the schedule format (HH:MM).
 
-Credits
-
+**Credits**
 Developed by HiddenUzer 
 
-License
+**License**
 This software is open-source and distributed under the MIT License.
