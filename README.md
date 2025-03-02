@@ -5,10 +5,15 @@ ZoomRec 1.2.0 is an automation tool that allows users to automatically join Zoom
 Features
 
 1.Automated Zoom Joining: Opens Zoom, enters meeting details, and joins automatically.
+
 2.Recording Functionality: Starts and stops screen recording with Alt+F9 (Nvidia GeForce Experience required)
+
 3.Scheduled Meetings: Checks at custom seconds and joins at the custom scheduled time.
+
 4.GUI Interface: Modify meeting details, schedules, and button positions easily.
+
 5.Auto Button locator: Automatically detects and saves button coordinates
+
 Configurable Settings: Stores meeting details, schedule, and button positions in config.json.
 
 Installation
