@@ -1,7 +1,7 @@
 {
-    "meeting_id": "979 8635 4489",
-    "meeting_passcode": "030302",
-    "zoom_path": "C:\\Users\\wujac\\AppData\\Roaming\\Zoom\\bin_00\\Zoom.exe",
+    "meeting_id": "000 0000 0000",
+    "meeting_passcode": "000000",
+    "zoom_path": "C:\\Users\\xxxxx\\AppData\\Roaming\\Zoom\\bin_00\\Zoom.exe",
     "coordinates": {
         "join_a_meeting_x": 1268,
         "join_a_meeting_y": 677
@@ -12,8 +12,8 @@
             "Wednesday",
             "Sunday"
         ],
-        "time": "00:43"
+        "time": "00:00"
     },
     "show_guide": true,
-    "record_duration": 10
+    "record_duration": 600
 }
